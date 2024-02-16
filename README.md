@@ -1,3 +1,3 @@
-# To repozytorium przechowuje imiona moich Pokemonów
+# This repository contains names of my Pokemons
 
-Jeśli szukasz pomysłów na imię dla Pokemona, to dobrze trafiłeś. Korzystaj śmiało.
+If you're looking for a perfect name for your Pokemon, you've come to the right place!
